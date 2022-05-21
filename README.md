@@ -26,7 +26,7 @@ This is a list of many forks and hacks related to the Super Mario 64 Decomp / Po
 Xado's custom fork, Refresh 15+, includes building support for N64, Wii U, 3DS, Switch & Android
 
   - [**jesusyoshi54/sm64ex-alo**](https://github.com/jesusyoshi54/sm64ex-alo)<br>
-  JesusYoshi54's fork for use with RM2C for porting romhacks made using SM64 Rom Manager 2.0<br>
+  JesusYoshi54's fork for use with [RM2C](https://gitlab.com/scuttlebugraiser/rom-manger-2-c) for porting romhacks made using SM64 Rom Manager 2.0<br>
   (also includes some ported romhacks.. be sure to check the branches)
 
 ## Etc.
