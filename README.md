@@ -4,6 +4,9 @@ This is a list of many forks and hacks related to the Super Mario 64 Decomp / Po
 ## Decomp
 - [**n64decomp/sm64**](https://github.com/n64decomp/sm64)<br>
   A Super Mario 64 decompilation, brought to you by a bunch of clever folks.
+  
+  - [**HackerN64/HackerSM64**](https://github.com/HackerN64/HackerSM64)
+    A Super Mario 64 decompilation repo based on **CrashOveride95/ultrasm64** that aims to provide a flexible, easy-to-use base for creating romhacks.
 
 ## PC
 - [**sm64-port/sm64-port**](https://github.com/sm64-port/sm64-port)<br>
