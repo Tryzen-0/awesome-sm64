@@ -1,25 +1,31 @@
 # sm64-decomp-repos
 This is a list of many forks and hacks related to the Super Mario 64 Decomp / Porting Project
 
-## OG stuff
-- Original decomp
-  - https://github.com/n64decomp/sm64
-- Original port
-  - https://github.com/sm64-port/sm64-port
+## Decomp
+- [**n64decomp/sm64**](https://github.com/n64decomp/sm64)<br>
+  A Super Mario 64 decompilation, brought to you by a bunch of clever folks.
+
 ## PC
-- sm64ex
-  - https://github.com/sm64pc/sm64ex
-- sm64rt (Dario's fork of sm64ex with raytracing support)
-  - https://github.com/DarioSamo/sm64rt
-- sm64plus
-  - https://github.com/MorsGames/sm64plus
+- [**sm64-port/sm64-port**](https://github.com/sm64-port/sm64-port)<br>
+  A port of **n64decomp/sm64** for modern devices.
+  
+  - [**MorsGames/sm64plus**](https://github.com/MorsGames/sm64plus)<br>
+    fork of **sm64-port/sm64-port** that focuses on QoL improvements and customizability. 
+  
+- [**sm64pc/sm64ex**](https://github.com/sm64pc/sm64ex)<br>
+  Fork of **sm64-port/sm64-port** with additional features. 
+  
+  - [**DarioSamo/sm64rt**](https://github.com/DarioSamo/sm64rt)<br>
+  Dario's fork of **sm64pc/sm64ex** with raytracing support
 
 ## Cross Platform
-- sm64ex-alo (Xado's custom fork, Refresh 15+, includes building support for N64, Wii U, 3DS, Switch & Android)
-  - https://github.com/AloXado320/sm64ex-alo
-    - sm64ex-alo (JesusYoshi54's RM2C port aka romhacks ported to multiple platforms)
-      - https://github.com/jesusyoshi54/sm64ex-alo
+- [**AloXado320/sm64ex-alo**](https://github.com/AloXado320/sm64ex-alo)<br>
+Xado's custom fork, Refresh 15+, includes building support for N64, Wii U, 3DS, Switch & Android
 
-# Etc.
-- sm64js
-  - https://github.com/sm64js/sm64js
+  - [**jesusyoshi54/sm64ex-alo**](https://github.com/jesusyoshi54/sm64ex-alo)<br>
+  JesusYoshi54's RM2C fork for porting romhacks made using SM64 Rom Manager 2.0<br>
+  (also includes some ported romhacks.. be sure to check the branches)
+
+## Etc.
+- [**sm64js/sm64js**](https://github.com/sm64js/sm64js)<br>
+  A Super Mario 64 Native Javascript Port 
