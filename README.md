@@ -1,6 +1,5 @@
 # awesome-sm64
-This is a list of many forks and hacks related to the Super Mario 64 Decomp / Porting Project
-
+This is a list of full game forks related to Super Mario 64 Decomp
 ## Decomp
 - [**n64decomp/sm64**](https://github.com/n64decomp/sm64)<br>
   A Super Mario 64 decompilation, brought to you by a bunch of clever folks.
