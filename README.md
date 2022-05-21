@@ -1,4 +1,4 @@
-# sm64-decomp-repos
+# awesome-sm64
 This is a list of many forks and hacks related to the Super Mario 64 Decomp / Porting Project
 
 ## Decomp
