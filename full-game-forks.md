@@ -15,10 +15,13 @@ This is a list of full game forks related to Super Mario 64 Decomp
     fork of **sm64-port/sm64-port** that focuses on QoL improvements and customizability. 
   
 - [**sm64pc/sm64ex**](https://github.com/sm64pc/sm64ex)<br>
-  Fork of **sm64-port/sm64-port** with additional features. 
+  Fork of **sm64-port/sm64-port** with additional features.
   
   - [**DarioSamo/sm64rt**](https://github.com/DarioSamo/sm64rt)<br>
   Dario's fork of **sm64pc/sm64ex** with raytracing support
+
+  - [**Render96/render96ex**](https://github.com/Render96/Render96ex)<br>
+  Project dedicated to making the game have the look of the boxart.
 
 ## Cross Platform
 - [**AloXado320/sm64ex-alo**](https://github.com/AloXado320/sm64ex-alo)<br>
