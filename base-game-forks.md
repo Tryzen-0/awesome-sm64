@@ -1,5 +1,5 @@
-# Full game forks
-This is a list of full game forks related to Super Mario 64 Decomp
+# Base game forks
+This is a list of base forks related to Super Mario 64 Decomp
 ## Decomp
 - [**n64decomp/sm64**](https://github.com/n64decomp/sm64)<br>
   A Super Mario 64 decompilation, brought to you by a bunch of clever folks.
